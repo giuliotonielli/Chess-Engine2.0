@@ -1,1 +1,1 @@
-web: java -jar Chess-Engine-0.0.1-SNAPSHOT.jar
+web: java -cp src.main.Engine
